@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Brannon's Professional Data Portfolio
+title: BSeay's Data Portfolio
 email: bseay40@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Brannon Seay's data science portfolio. Includes project examples
+  (machine learning, statistics, data analysis), resume, blog posts,
+  coding challenges, contact information, etc.
 twitter_username: username
 github_username: bseay40
 minimal_mistakes_skin: dark
